@@ -1,15 +1,3 @@
-@media (max-width: 768px) {
-  body {
-    font-size: 14px;
-  }
-}
-
-@media (max-width: 480px) {
-  body {
-    font-size: 12px;
-  }
-}
-
 * {
   padding: 0;
   margin: 0;
@@ -20,7 +8,7 @@
 
 body {
   background-image: url(./faq-accordion-main/assets/images/background-pattern-desktop.svg);
-  background-repeat: no-repeat;
+  background-repeat: repeat-x;
   background-color: hsl(275, 100%, 97%);
 }
 
